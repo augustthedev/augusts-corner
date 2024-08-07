@@ -54,15 +54,7 @@ text-align: center;
 a {
     text-align: center;
     font-family: 'Roboto';
-}
-.duck{
-    position: relative;
-        left: 1000px;
-        top: 500px;
-}
-.entry {
-   font-size: 10px;
-    font-family: 'Roboto';
+
 }
 button {
   font-family: 'Roboto';
@@ -92,11 +84,9 @@ hr {
    text-decoration: underline;
 text-align: center;
  }
- 
- .errorImage {
-    
-   
- }
+ul {
+   list-style: none; 
+}
  
  
  
